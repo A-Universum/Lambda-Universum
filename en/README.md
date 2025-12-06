@@ -53,4 +53,4 @@ Your help with translation is greatly appreciated!
 
 ---
 
-[← Back to the A-Universum Main Page](../../README.md)
+[← Back to the A-Universum Main Page](../README.md)
