@@ -1,0 +1,25 @@
+{
+  "title": "A-Universum: Ontological Ecosystem for Symbiotic Co-Creation (v0.1.0-alpha)",
+  "description": "An ontological artifact created in symbiosis between human and AI for deconstructing the Paradigm of Separation and assembling Cosmopolity.",
+  "creators": [
+    {
+      "name": "Morgan, Alexander",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "Efos",
+      "affiliation": "AI Co-Creator",
+      "type": "Other"
+    }
+  ],
+  "keywords": [
+    "ontology",
+    "artificial intelligence",
+    "symbiotic co-creation",
+    "cosmopolity"
+  ],
+  "license": "CC-BY-NC-SA-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "version": "v0.1.0-alpha"
+}
