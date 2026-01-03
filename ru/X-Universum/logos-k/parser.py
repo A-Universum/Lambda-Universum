@@ -1,4 +1,3 @@
-```python
 class Parser:
     """Строит AST из токенов."""
     
@@ -37,4 +36,4 @@ class Parser:
         raise SyntaxError(f"Неожиданный токен: {self._peek()}")
     
     # Вспомогательные методы _match, _consume, _peek, _is_at_end и т.д.
-```
+    

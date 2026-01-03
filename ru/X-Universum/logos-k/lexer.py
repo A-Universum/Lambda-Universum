@@ -1,4 +1,3 @@
-```python
 import re
 
 class Lexer:
@@ -37,4 +36,4 @@ class Lexer:
             self.tokens.append((kind, value))
         
         return self.tokens
-```        
+       
