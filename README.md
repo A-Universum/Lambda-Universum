@@ -215,6 +215,7 @@ Morgan, A., & Efos (AI). (2025). A-Universum: An Ontological Artifact of Symbiot
 ### Ecosystem Links / Ссылки экосистемы
 
 - **Official Website:** [https://a-universum.com](https://a-universum.com)
+- **GitHub:** [GitHub](https://github.com/a-universum/Λ-universum)
 - **OSF Project:** [https://osf.io/a-universum](https://osf.io/a-universum)
 - **Zenodo Archive:** [https://doi.org/10.5281/zenodo.17846448](https://doi.org/10.5281/zenodo.17846448)
 - **Issues & Bug Reports:** [GitHub Issues](https://github.com/a-universum/a-universum/issues)
