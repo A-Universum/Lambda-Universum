@@ -15,6 +15,7 @@
 
 > **Ontological Status:** "Λ-Universe is not a literary work, a scientific theory, a religious revelation, or a philosophical system in the traditional sense. This project is an ontological artifact—an instrumental interface designed for operational interaction with the structure of reality through the practice of symbiotic co-creation."
 
+<img src="https://raw.githubusercontent.com/A-Universum/Lambda-Universum/refs/heads/main/images/universum.jpg" alt="Λ-Универсум"> 
 ---
 
 ## 🇬🇧 English
