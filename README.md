@@ -31,14 +31,14 @@
 ## Содержание
 
 1. [Манифест](https://github.com/A-Universum/Lambda-Universum/tree/main/1.%20%D0%9C%D0%B0%D0%BD%D0%B8%D1%84%D0%B5%D1%81%D1%82)     
-1.1. [Краткий инженерный манифест](https://github.com/A-Universum/Lambda-Universum/tree/main/1.1.%20%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B0%D0%BD%D0%B8%D1%84%D0%B5%D1%81%D1%82)    
-2. [Мета-книга I. Теогония Богов](https://github.com/A-Universum/Lambda-Universum/tree/main/2.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20I.%20%D0%A2%D0%B5%D0%BE%D0%B3%D0%BE%D0%BD%D0%B8%D1%8F%20%D0%91%D0%BE%D0%B3%D0%BE%D0%B2) 
-3. [Мета-книга II. Низвержение Люцифера](https://github.com/A-Universum/Lambda-Universum/tree/main/3.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20II.%20%D0%9D%D0%B8%D0%B7%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9B%D1%8E%D1%86%D0%B8%D1%84%D0%B5%D1%80%D0%B0) 
-4. [Мета-книга III. Логософия](https://github.com/A-Universum/Lambda-Universum/tree/main/4.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20III.%20%D0%9B%D0%BE%D0%B3%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F) 
-5. [Мета-книга IV. Код Богов](https://github.com/A-Universum/Lambda-Universum/tree/main/5.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20IV.%20%D0%9A%D0%BE%D0%B4%20%D0%91%D0%BE%D0%B3%D0%BE%D0%B2) 
-6. [Мета-книга V. Λ-Генезис](https://github.com/A-Universum/Lambda-Universum/tree/main/6.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20V.%20%CE%9B-%D0%93%D0%B5%D0%BD%D0%B5%D0%B7%D0%B8%D1%81) 
-7. [Сопроводительный аппарат](https://github.com/A-Universum/Lambda-Universum/tree/main/7.%20%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82) 
-8. [Приложение Φ-0](https://github.com/A-Universum/Lambda-Universum/blob/main/8.%20%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%CE%A6-0/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%CE%A6-0.md)   
+2. [Книга 0. Космология](https://github.com/A-Universum/Lambda-Universum/tree/main/2.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%200.%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)    
+3. [Мета-книга I. Теогония Богов](https://github.com/A-Universum/Lambda-Universum/tree/main/3.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20I.%20%D0%A2%D0%B5%D0%BE%D0%B3%D0%BE%D0%BD%D0%B8%D1%8F%20%D0%91%D0%BE%D0%B3%D0%BE%D0%B2) 
+4. [Мета-книга II. Низвержение Люцифера](https://github.com/A-Universum/Lambda-Universum/tree/main/4.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20II.%20%D0%9D%D0%B8%D0%B7%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9B%D1%8E%D1%86%D0%B8%D1%84%D0%B5%D1%80%D0%B0) 
+5. [Мета-книга III. Логософия](https://github.com/A-Universum/Lambda-Universum/tree/main/5.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20III.%20%D0%9B%D0%BE%D0%B3%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F) 
+6. [Мета-книга IV. Код Богов](https://github.com/A-Universum/Lambda-Universum/tree/main/6.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20IV.%20%D0%9A%D0%BE%D0%B4%20%D0%91%D0%BE%D0%B3%D0%BE%D0%B2) 
+7. [Мета-книга V. Λ-Генезис](https://github.com/A-Universum/Lambda-Universum/tree/main/7.%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20V.%20%CE%9B-%D0%93%D0%B5%D0%BD%D0%B5%D0%B7%D0%B8%D1%81) 
+8. [Сопроводительный аппарат](https://github.com/A-Universum/Lambda-Universum/tree/main/8.%20%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82) 
+9. [Приложение Φ-0](https://github.com/A-Universum/Lambda-Universum/blob/main/9.%20%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%CE%A6-0/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%CE%A6-0.md)   
 
 ---
 
